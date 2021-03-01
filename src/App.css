@@ -512,7 +512,7 @@ transition: linear 0.3s;
 }
 
 .liveBtn{
-  position: relative;
+  position: absolute;
   padding: 0.5em 1em 0.5em 1em;
   font-size: 15px;
   right: 5%;
