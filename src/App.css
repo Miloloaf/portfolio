@@ -515,7 +515,7 @@ transition: linear 0.3s;
   position: absolute;
   padding: 0.5em 1em 0.5em 1em;
   font-size: 15px;
-  left: 20%;
+  left: 22%;
   /* right: 5%;
   bottom: 0%; */
   top: 75%;
@@ -534,11 +534,11 @@ transition: linear 0.3s;
 
 
 .repoBtn{
-  position: relative;
+  position: absolute;
   padding: 0.5em 1em 0.5em 1em;
   font-size: 15px;
-  left: 20%;
-  top: 61.5%;
+  right: 17%;
+  top: 75%;
   text-decoration: none;
   color: bisque;
   border: 1px solid black;
