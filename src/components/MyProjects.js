@@ -5,7 +5,7 @@ import image1 from '../assets/images/Beach_Resort_Pic.PNG'
 import image2 from '../assets/images/To_Do_Pic.PNG'
 import image3 from '../assets/images/Sweet_V_Pic.PNG'
 import image4 from '../assets/images/Calculator_Pic.PNG'
-import image5 from '../assets/images/Image_Slider_Pic.PNG'
+import image5 from '../assets/images/IG_Image_Slider_Pic.PNG'
 import image6 from '../assets/images/Sushi_Go_Round_Bot.gif'
 
 export const MyProjects = () => {
@@ -56,12 +56,12 @@ export const MyProjects = () => {
         />
         <Project
           projectNumber="5"
-          projectName="Food Image Slider"
-          projectLanguages="Javascript"
-          projectDescription="A slideshow of food images"
+          projectName="Instagram Image Slider"
+          projectLanguages="React JS"
+          projectDescription="A slideshow of images accessed with the Instagram API and fetched with Axios."
           projectPic={image5}
-          projectLive={'https://food-image-slider-example.netlify.app/'}
-          projectSource={'https://github.com/Miloloaf/Image_Slider'}
+          projectLive={'https://ml-ig-slider-app.netlify.app/'}
+          projectSource={'https://github.com/Miloloaf/Instagram_Image_Slider'}
         />
                 <Project
           projectNumber="6"
