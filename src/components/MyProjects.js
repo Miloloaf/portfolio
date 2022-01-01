@@ -5,7 +5,7 @@ import image1 from '../assets/images/Beach_Resort_Pic.PNG'
 import image2 from '../assets/images/To_Do_Pic.PNG'
 import image3 from '../assets/images/Sweet_V_Pic.PNG'
 import image4 from '../assets/images/Tic_Tac_Toe.gif'
-import image5 from '../assets/images/Image_Slider_Pic.PNG'
+import image5 from '../assets/images/IG_Image_Slider_Pic.PNG'
 import image6 from '../assets/images/Sushi_Go_Round_Bot.gif'
 
 export const MyProjects = () => {
