@@ -4,7 +4,7 @@ import { Project } from './Project'
 import image1 from '../assets/images/Beach_Resort_Pic.PNG'
 import image2 from '../assets/images/To_Do_Pic.PNG'
 import image3 from '../assets/images/Sweet_V_Pic.PNG'
-import image4 from '../assets/images/Calculator_Pic.PNG'
+import image4 from '../assets/images/Tic_Tac_Toe.gif'
 import image5 from '../assets/images/Image_Slider_Pic.PNG'
 import image6 from '../assets/images/Sushi_Go_Round_Bot.gif'
 
@@ -47,12 +47,12 @@ export const MyProjects = () => {
         />
         <Project
           projectNumber="4"
-          projectName="Calculator"
-          projectLanguages="Javascript"
-          projectDescription="Simple Calculator"
+          projectName="Tic Tac Toe"
+          projectLanguages="React JS"
+          projectDescription="Tic Tac Toe game utilizing Hook States, Styled Components and React-Transition-Group to animate the Game Over screen"
           projectPic={image4}
-          projectLive={'https://miloloaf.github.io/Simple_Calculator/'}
-          projectSource={'https://github.com/Miloloaf/Simple_Calculator'}
+          projectLive={'https://ml-tic-tac-toe.netlify.app/'}
+          projectSource={'https://github.com/Miloloaf/Tic-Tac-Toe'}
         />
         <Project
           projectNumber="5"
@@ -63,7 +63,7 @@ export const MyProjects = () => {
           projectLive={'https://food-image-slider-example.netlify.app/'}
           projectSource={'https://github.com/Miloloaf/Image_Slider'}
         />
-                <Project
+        <Project
           projectNumber="6"
           projectName="Sushi Go Round Bot"
           projectLanguages="Python"
