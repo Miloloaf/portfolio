@@ -56,12 +56,12 @@ export const MyProjects = () => {
         />
         <Project
           projectNumber="5"
-          projectName="Food Image Slider"
-          projectLanguages="Javascript"
-          projectDescription="A slideshow of food images"
+          projectName="Instagram Image Slider"
+          projectLanguages="React JS"
+          projectDescription="A slideshow of images accessed with the Instagram API and fetched with Axios."
           projectPic={image5}
-          projectLive={'https://food-image-slider-example.netlify.app/'}
-          projectSource={'https://github.com/Miloloaf/Image_Slider'}
+          projectLive={'https://ml-ig-slider-app.netlify.app/'}
+          projectSource={'https://github.com/Miloloaf/Instagram_Image_Slider'}
         />
         <Project
           projectNumber="6"
